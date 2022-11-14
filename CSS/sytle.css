@@ -459,6 +459,14 @@ footer ul li a:hover{
     .nav__menu li:nth-child(4) {
         animation-delay: 600ms;
     }
+      }
+    .nav__menu li:nth-child(5) {
+        animation-delay: 800ms;
+    }
+      }
+    .nav__menu li:nth-child(6) {
+        animation-delay: 1000ms;
+    }
 
     @keyframes animateNavItems {
         0%{
