@@ -538,7 +538,7 @@ footer ul li a:hover{
     }
                 /* ========HEADER QUERY============ */
     header{
-        height: 100vh;
+        height: 100%;
     }
     .header__container{
         grid-template-columns: 1fr;
